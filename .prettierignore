@@ -1,0 +1,6 @@
+/public
+/coverage
+/dist
+/node_modules
+jest.confi.js
+/logs
